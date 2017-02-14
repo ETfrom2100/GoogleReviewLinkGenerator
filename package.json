@@ -1,7 +1,7 @@
 {
-  "name": "redux-simple-starter",
+  "name": "google-review-link-generator",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "A tool that provides users with a stable \"Review Us\" link",
   "main": "index.js",
   "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
   "scripts": {

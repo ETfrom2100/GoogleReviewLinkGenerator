@@ -7,3 +7,7 @@ body{
 .link-option{
 	background-color:#fff !important;
 }
+#loading_text{
+	text-align:center;
+	margin-top:20px;
+}

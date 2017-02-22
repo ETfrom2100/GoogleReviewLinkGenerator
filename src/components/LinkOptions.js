@@ -10,7 +10,7 @@ class LinkOptions extends Component{
 		{
 			if(this.props.isFetching)
 			{
-				return <div>Generating links...Please wait...</div>
+				return <div id="loading_text">Generating links...Please wait...</div>
 			}
 			return <div></div>;
 		}
